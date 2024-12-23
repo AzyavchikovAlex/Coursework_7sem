@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "CMakeFiles/METRICS.dir/Utils/filesystem.cpp.o"
-    }
-  ],
-  "version": 1
-}
