@@ -1,0 +1,325 @@
+220
+20 10
+type	0
+2
+2 0.1
+3 0.1
+
+type	1
+4
+0 0.1
+4 0.1
+6 0.1
+8 0.1
+
+type	2
+2
+1 0.1
+3 0.1
+
+type	3
+2
+4 0.1
+6 0.1
+
+type	4
+3
+0 0.1
+5 0.1
+6 0.1
+
+type	5
+1
+2 0.1
+
+type	6
+4
+1 0.1
+2 0.1
+3 0.1
+9 0.1
+
+type	7
+2
+1 0.1
+2 0.1
+
+type	8
+4
+3 0.1
+4 0.1
+6 0.1
+9 0.1
+
+type	9
+2
+4 0.1
+5 0.1
+
+type	10
+4
+0 0.1
+1 0.1
+6 0.1
+9 0.1
+
+type	11
+5
+1 0.1
+2 0.1
+7 0.1
+8 0.1
+9 0.1
+
+type	12
+4
+1 0.1
+2 0.1
+3 0.1
+7 0.1
+
+type	13
+5
+0 0.1
+1 0.1
+6 0.1
+7 0.1
+8 0.1
+
+type	14
+3
+1 0.1
+3 0.1
+4 0.1
+
+type	15
+1
+0 0.1
+
+type	16
+5
+1 0.1
+3 0.1
+5 0.1
+6 0.1
+7 0.1
+
+type	17
+4
+1 0.1
+2 0.1
+4 0.1
+5 0.1
+
+type	18
+4
+0 0.1
+7 0.1
+8 0.1
+9 0.1
+
+type	19
+2
+1 0.1
+7 0.1
+
+worker	7
+worker	11
+worker	12
+worker	15
+worker	2
+worker	7
+worker	14
+worker	6
+worker	5
+worker	17
+worker	14
+worker	8
+worker	18
+worker	5
+worker	8
+worker	3
+worker	6
+worker	3
+worker	1
+worker	9
+worker	7
+worker	5
+worker	1
+worker	18
+worker	10
+worker	0
+worker	0
+worker	4
+worker	4
+worker	18
+worker	3
+worker	12
+worker	15
+worker	3
+worker	4
+worker	1
+worker	0
+worker	5
+worker	17
+worker	4
+worker	5
+worker	8
+worker	4
+worker	7
+worker	0
+worker	10
+worker	12
+worker	6
+worker	17
+worker	6
+worker	15
+worker	15
+worker	12
+worker	18
+worker	15
+worker	2
+worker	2
+worker	16
+worker	8
+worker	2
+worker	13
+worker	11
+worker	4
+worker	0
+worker	2
+worker	8
+worker	6
+worker	13
+worker	14
+worker	4
+worker	4
+worker	18
+worker	7
+worker	1
+worker	1
+worker	19
+worker	14
+worker	1
+worker	0
+worker	0
+worker	18
+worker	18
+worker	13
+worker	12
+worker	12
+worker	0
+worker	17
+worker	8
+worker	1
+worker	1
+worker	2
+worker	6
+worker	4
+worker	12
+worker	12
+worker	19
+worker	12
+worker	1
+worker	14
+worker	4
+task	8 0.1
+task	0 0.1
+task	3 0.1
+task	8 0.1
+task	8 0.1
+task	8 0.1
+task	8 0.1
+task	6 0.1
+task	1 0.1
+task	8 0.1
+task	3 0.1
+task	8 0.1
+task	5 0.1
+task	9 0.1
+task	8 0.1
+task	3 0.1
+task	0 0.1
+task	4 0.1
+task	6 0.1
+task	7 0.1
+task	0 0.1
+task	9 0.1
+task	0 0.1
+task	1 0.1
+task	2 0.1
+task	4 0.1
+task	5 0.1
+task	7 0.1
+task	8 0.1
+task	7 0.1
+task	2 0.1
+task	9 0.1
+task	1 0.1
+task	7 0.1
+task	5 0.1
+task	1 0.1
+task	2 0.1
+task	1 0.1
+task	4 0.1
+task	2 0.1
+task	1 0.1
+task	9 0.1
+task	6 0.1
+task	3 0.1
+task	3 0.1
+task	8 0.1
+task	3 0.1
+task	9 0.1
+task	7 0.1
+task	0 0.1
+task	5 0.1
+task	0 0.1
+task	8 0.1
+task	1 0.1
+task	4 0.1
+task	1 0.1
+task	7 0.1
+task	6 0.1
+task	0 0.1
+task	1 0.1
+task	7 0.1
+task	0 0.1
+task	2 0.1
+task	8 0.1
+task	6 0.1
+task	7 0.1
+task	7 0.1
+task	0 0.1
+task	7 0.1
+task	7 0.1
+task	9 0.1
+task	9 0.1
+task	8 0.1
+task	9 0.1
+task	2 0.1
+task	5 0.1
+task	7 0.1
+task	5 0.1
+task	4 0.1
+task	5 0.1
+task	9 0.1
+task	0 0.1
+task	5 0.1
+task	9 0.1
+task	5 0.1
+task	0 0.1
+task	7 0.1
+task	9 0.1
+task	6 0.1
+task	6 0.1
+task	9 0.1
+task	7 0.1
+task	0 0.1
+task	1 0.1
+task	7 0.1
+task	7 0.1
+task	1 0.1
+task	4 0.1
+task	2 0.1
+task	6 0.1

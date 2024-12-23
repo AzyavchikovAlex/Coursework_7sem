@@ -1,0 +1,1017 @@
+1003
+3 3
+type	0
+2
+0 0.2
+2 0.6
+
+type	1
+2
+1 0.2
+2 0.6
+
+type	2
+2
+0 0.2
+1 0.2
+
+worker	0
+worker	0
+worker	0
+worker	2
+worker	0
+worker	1
+worker	1
+worker	2
+worker	1
+worker	0
+worker	2
+worker	0
+worker	1
+worker	2
+worker	1
+worker	2
+worker	1
+worker	1
+worker	2
+worker	0
+worker	1
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	1
+worker	1
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	1
+worker	2
+worker	0
+worker	1
+worker	2
+worker	2
+worker	0
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	1
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	0
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	1
+worker	1
+worker	1
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	1
+worker	0
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	2
+worker	1
+worker	0
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	2
+worker	0
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	1
+worker	0
+worker	2
+worker	2
+worker	2
+worker	0
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	0
+worker	2
+worker	1
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	0
+worker	0
+worker	2
+worker	2
+worker	0
+worker	0
+worker	1
+worker	2
+worker	0
+worker	1
+worker	2
+worker	1
+worker	1
+worker	0
+worker	2
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	0
+worker	2
+worker	1
+worker	1
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	2
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	2
+worker	2
+worker	1
+worker	2
+worker	1
+worker	2
+worker	1
+worker	0
+worker	1
+worker	1
+worker	2
+worker	0
+worker	2
+worker	2
+worker	0
+worker	0
+worker	1
+worker	2
+worker	0
+worker	0
+worker	1
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	2
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	2
+worker	0
+worker	1
+worker	2
+worker	0
+worker	0
+worker	2
+worker	0
+worker	0
+worker	2
+worker	2
+worker	0
+worker	1
+worker	0
+worker	1
+worker	2
+worker	1
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	2
+worker	1
+worker	0
+worker	0
+worker	0
+worker	1
+worker	2
+worker	0
+worker	2
+worker	1
+worker	2
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	0
+worker	1
+worker	0
+worker	2
+worker	1
+worker	2
+worker	1
+worker	1
+worker	2
+worker	0
+worker	0
+worker	0
+worker	2
+worker	1
+worker	1
+worker	2
+worker	1
+worker	2
+worker	2
+worker	1
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	1
+worker	1
+worker	1
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	2
+worker	0
+worker	2
+worker	2
+worker	0
+worker	2
+worker	2
+worker	2
+worker	1
+worker	2
+worker	2
+worker	1
+worker	1
+worker	1
+worker	2
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	1
+worker	1
+worker	0
+worker	1
+worker	1
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	1
+worker	1
+worker	1
+worker	1
+worker	1
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	1
+worker	0
+worker	1
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	0
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	1
+worker	0
+worker	0
+worker	1
+worker	0
+worker	0
+worker	0
+worker	1
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	0 0.2
+task	1 0.2
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	1 0.2
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	1 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	1 0.2
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	0 0.2
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	1 0.2
+task	2 0.6
+task	2 0.6
+task	0 0.2
+task	2 0.6

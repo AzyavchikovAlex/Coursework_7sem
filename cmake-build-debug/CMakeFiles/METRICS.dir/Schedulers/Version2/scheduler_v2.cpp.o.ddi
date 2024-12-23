@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/METRICS.dir/Schedulers/Version2/scheduler_v2.cpp.o"
+    }
+  ],
+  "version": 1
+}

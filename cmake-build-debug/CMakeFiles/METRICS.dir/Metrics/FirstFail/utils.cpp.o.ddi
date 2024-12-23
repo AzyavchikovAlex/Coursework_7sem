@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/METRICS.dir/Metrics/FirstFail/utils.cpp.o"
+    }
+  ],
+  "version": 1
+}

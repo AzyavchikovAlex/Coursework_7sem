@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/alexazyavchikov/Documents/BSU/Coursework_7sem/cmake-build-debug",
+	"dir-cur-src" : "/home/alexazyavchikov/Documents/BSU/Coursework_7sem",
+	"dir-top-bld" : "/home/alexazyavchikov/Documents/BSU/Coursework_7sem/cmake-build-debug",
+	"dir-top-src" : "/home/alexazyavchikov/Documents/BSU/Coursework_7sem",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		".",
+		"/home/alexazyavchikov/Documents/BSU/Coursework_7sem"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/alexazyavchikov/Documents/BSU/Coursework_7sem/cmake-build-debug/CMakeFiles/SETUP_GENERATOR.dir"
+}

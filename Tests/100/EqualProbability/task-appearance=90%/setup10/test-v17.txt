@@ -1,0 +1,288 @@
+220
+20 10
+type	0
+1
+3 0.1
+
+type	1
+0
+
+type	2
+0
+
+type	3
+0
+
+type	4
+0
+
+type	5
+2
+3 0.1
+9 0.1
+
+type	6
+1
+2 0.1
+
+type	7
+1
+6 0.1
+
+type	8
+0
+
+type	9
+1
+4 0.1
+
+type	10
+4
+1 0.1
+2 0.1
+3 0.1
+4 0.1
+
+type	11
+1
+1 0.1
+
+type	12
+4
+1 0.1
+6 0.1
+8 0.1
+9 0.1
+
+type	13
+2
+7 0.1
+9 0.1
+
+type	14
+2
+3 0.1
+7 0.1
+
+type	15
+1
+0 0.1
+
+type	16
+0
+
+type	17
+3
+0 0.1
+4 0.1
+8 0.1
+
+type	18
+2
+4 0.1
+7 0.1
+
+type	19
+1
+5 0.1
+
+worker	12
+worker	10
+worker	17
+worker	13
+worker	7
+worker	14
+worker	18
+worker	9
+worker	17
+worker	15
+worker	7
+worker	7
+worker	5
+worker	13
+worker	19
+worker	13
+worker	19
+worker	6
+worker	5
+worker	7
+worker	12
+worker	17
+worker	6
+worker	9
+worker	19
+worker	19
+worker	12
+worker	14
+worker	14
+worker	18
+worker	5
+worker	17
+worker	10
+worker	19
+worker	17
+worker	5
+worker	6
+worker	14
+worker	15
+worker	0
+worker	12
+worker	15
+worker	5
+worker	6
+worker	19
+worker	14
+worker	11
+worker	13
+worker	9
+worker	11
+worker	18
+worker	17
+worker	14
+worker	18
+worker	7
+worker	5
+worker	12
+worker	17
+worker	12
+worker	12
+worker	19
+worker	17
+worker	10
+worker	11
+worker	7
+worker	12
+worker	13
+worker	11
+worker	18
+worker	0
+worker	10
+worker	12
+worker	0
+worker	13
+worker	10
+worker	0
+worker	5
+worker	17
+worker	6
+worker	18
+worker	6
+worker	17
+worker	6
+worker	10
+worker	6
+worker	17
+worker	11
+worker	17
+worker	10
+worker	12
+worker	11
+worker	15
+worker	6
+worker	6
+worker	6
+worker	12
+worker	10
+worker	17
+worker	6
+worker	6
+task	7 0.1
+task	4 0.1
+task	2 0.1
+task	2 0.1
+task	2 0.1
+task	1 0.1
+task	8 0.1
+task	2 0.1
+task	6 0.1
+task	5 0.1
+task	2 0.1
+task	7 0.1
+task	8 0.1
+task	2 0.1
+task	1 0.1
+task	2 0.1
+task	0 0.1
+task	2 0.1
+task	2 0.1
+task	7 0.1
+task	2 0.1
+task	0 0.1
+task	1 0.1
+task	0 0.1
+task	5 0.1
+task	1 0.1
+task	3 0.1
+task	9 0.1
+task	6 0.1
+task	0 0.1
+task	1 0.1
+task	0 0.1
+task	6 0.1
+task	6 0.1
+task	4 0.1
+task	6 0.1
+task	0 0.1
+task	8 0.1
+task	6 0.1
+task	4 0.1
+task	2 0.1
+task	4 0.1
+task	8 0.1
+task	7 0.1
+task	9 0.1
+task	4 0.1
+task	2 0.1
+task	9 0.1
+task	1 0.1
+task	7 0.1
+task	7 0.1
+task	7 0.1
+task	3 0.1
+task	3 0.1
+task	1 0.1
+task	3 0.1
+task	2 0.1
+task	5 0.1
+task	6 0.1
+task	5 0.1
+task	1 0.1
+task	2 0.1
+task	4 0.1
+task	2 0.1
+task	3 0.1
+task	4 0.1
+task	0 0.1
+task	5 0.1
+task	8 0.1
+task	5 0.1
+task	2 0.1
+task	9 0.1
+task	1 0.1
+task	2 0.1
+task	1 0.1
+task	8 0.1
+task	2 0.1
+task	2 0.1
+task	7 0.1
+task	2 0.1
+task	9 0.1
+task	1 0.1
+task	2 0.1
+task	8 0.1
+task	8 0.1
+task	5 0.1
+task	3 0.1
+task	3 0.1
+task	0 0.1
+task	3 0.1
+task	3 0.1
+task	3 0.1
+task	6 0.1
+task	1 0.1
+task	0 0.1
+task	0 0.1
+task	3 0.1
+task	6 0.1
+task	3 0.1
+task	6 0.1

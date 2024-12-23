@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/METRICS.dir/DataGenerator/Setups/MetaInfo/utils.cpp.o"
+    }
+  ],
+  "version": 1
+}
